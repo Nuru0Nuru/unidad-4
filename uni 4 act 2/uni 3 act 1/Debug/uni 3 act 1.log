@@ -1,0 +1,84 @@
+﻿  main.cpp
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(46,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(46,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(46,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(46,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(46,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(47,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(47,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(47,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(47,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(47,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,52): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,52): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,52): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,52): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,34): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,34): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,34): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(65,34): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(70,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(70,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(70,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(70,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(70,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(71,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(71,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(71,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(71,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(71,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,52): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,52): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,52): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,52): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,34): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,34): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,34): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(89,34): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(94,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(94,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(94,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(94,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(94,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(95,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(95,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(95,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(95,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(95,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,52): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,52): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,52): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,52): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,34): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,34): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,34): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(113,34): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(120,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(120,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(120,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(120,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(120,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(121,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(121,17): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(121,17): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(121,17): warning C4244:             T=unsigned int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(121,17): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,52): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,52): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,52): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,52): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,34): warning C4244:         with
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,34): warning C4244:         [
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,34): warning C4244:             T=int
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(139,34): warning C4244:         ]
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(45,4): warning C4102: 'sf': etiqueta sin referencia
+C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\uni 3 act 1\main.cpp(17,12): warning C4101: 'evt': variable local sin referencia
+  uni 3 act 1.vcxproj -> C:\Users\Brenda\Documents\visual\unidad 4\uni 4 act 2\Debug\uni 3 act 1.exe
